@@ -1,0 +1,33 @@
+body{
+	background-color: lightblue;
+}
+h1{
+	font-size: 30px;
+	color: teal;
+}
+
+h2{
+	color: red;
+	font-size: 20px;
+}
+
+h2{
+	color: black;
+}
+
+.big{
+	font-size: 50px;
+}
+
+.ayam{
+	text-transform: uppercase;
+}
+
+
+.big.ayam{
+	color: navy;
+}
+
+h1 span{
+	color: blue;
+}
