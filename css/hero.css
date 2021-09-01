@@ -8,6 +8,8 @@ body{
 h1, h2{
 	font-family: 'Viga', sans-serif;
 }
+
+/* header style */
 header{
 	background-color: brown;
 	text-align: center; 
@@ -68,3 +70,4 @@ p.caption{
 	font-style: italic;
 	margin: 0;
 }
+
